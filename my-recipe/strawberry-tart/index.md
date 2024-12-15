@@ -9,19 +9,19 @@
 
 ## タルト生地
 
-<a hreh="../tart/index.md" taget="_blank">
+<a hreh="/pages/my-recipe/tart/index.md" taget="_blank">
   タルト生地のレシピ
 </a>
 
 ## アーモンドクリーム
 
-<a hreh="../almond-cream/index.md" taget="_blank">
+<a hreh="/pages/my-recipe/almond-cream/index.md" taget="_blank">
   アーモンドクリームのレシピ
 </a>
 
 ## アーモンドクリーム
 
-<a hreh="../diplomat-cream/index.md" taget="_blank">
+<a hreh="/pages/my-recipe/diplomat-cream/index.md" taget="_blank">
   ディプロマットクリームのレシピ
 </a>
 
