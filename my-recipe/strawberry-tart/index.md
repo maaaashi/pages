@@ -1,5 +1,7 @@
 # いちごのタルト
 
+![いちごのタルト](./images/完成.png)
+
 元の記事[リンク](https://www.gnavi.co.jp/dressing/article/22280/)
 
 ## 前日準備
