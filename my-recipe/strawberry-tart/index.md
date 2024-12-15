@@ -1,8 +1,10 @@
 # いちごのタルト
 
-![いちごのタルト](./images/完成.png)
+![いちごのタルト](./images/完成.jpg)
 
-元の記事[リンク](https://www.gnavi.co.jp/dressing/article/22280/)
+元の記事<a href="[/pages/my-recipe/tart](https://www.gnavi.co.jp/dressing/article/22280/)" target="_blank" rel="noopener noreferrer">
+  リンク
+</a>
 
 ## 前日準備
 
@@ -105,4 +107,4 @@
     ・何度も重ね塗りするとハケ目がつくため、できるだけ一度で塗り切るようにする。
     ```
 
-![完成](images/完成.png)
+![完成](images/完成.jpg)
