@@ -1,8 +1,4 @@
-# Welcome to My GitHub Page
+# Maaaashi GitHub Pages
 
-This is a simple example of using **Markdown** for a GitHub Pages site.
+- [My Recipe](my-recipe/index.md)
 
-- Item 1
-- Item 2
-
-[Visit my GitHub](https://github.com/your-username)
