@@ -13,15 +13,11 @@
 
 ## タルト生地を作る（前日作業あり）
 
-<a href="/pages/my-recipe/tart" target="_blank" rel="noopener noreferrer">
-  タルト生地のレシピ
-</a>
+[タルト生地のレシピ](../tart/index.md)
 
 ## アーモンドクリームを作る（前日作業あり）
 
-<a href="/pages/my-recipe/almond-cream" target="_blank" rel="noopener noreferrer">
-  アーモンドクリームのレシピ
-</a>
+[アーモンドクリームのレシピ](../almond-cream/index.md)
 
 ## タルト生地にアーモンドクリームを詰める
 
@@ -60,9 +56,7 @@
 
 ## ディプロマットクリームを作る
 
-<a href="/pages/my-recipe/diplomat-cream" target="_blank" rel="noopener noreferrer">
-  ディプロマットクリームのレシピ
-</a>
+[ディプロマットクリームのレシピ](../diplomat-cream/index.md)
 
 ## トッピング
 
